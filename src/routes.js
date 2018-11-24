@@ -3,10 +3,15 @@ import AboutPage from './pages/about.vue';
 import FormPage from './pages/form.vue';
 import DynamicRoutePage from './pages/dynamic-route.vue';
 import NotFoundPage from './pages/not-found.vue';
+import Login from './pages/login.vue';
 
 import PanelLeftPage from './pages/panel-left.vue';
 
 export default [
+  {
+    path : "/login/",
+    component: Login
+  },
   {
     path: '/',
     component: HomePage,

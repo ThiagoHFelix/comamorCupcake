@@ -17,7 +17,8 @@ import AppStyles from './css/app.css';
 // Import App Component
 import App from './app.vue';
 
-import * as VueGoogleMaps from 'vue2-google-maps'
+import * as VueGoogleMaps from 'vue2-google-maps';
+
 
 // Init F7 Vue Plugin
 Framework7.use(Framework7Vue)
