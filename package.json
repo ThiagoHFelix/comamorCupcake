@@ -33,8 +33,6 @@
   },
   "homepage": "http://framework7.io/vue/",
   "dependencies": {
-    "cordova-android": "^7.1.2",
-    "cordova-browser": "^5.0.4",
     "framework7": "^3.4.0",
     "framework7-icons": "^0.9.1",
     "framework7-vue": "^3.4.0",
@@ -84,9 +82,6 @@
     "not ie <= 8"
   ],
   "cordova": {
-    "platforms": [
-      "android",
-      "browser"
-    ]
+    "platforms": []
   }
 }

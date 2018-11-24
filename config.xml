@@ -7,6 +7,4 @@
     <author email="thiagoacdc12@gmail.com" href="https://github.com/thiagohfelix">
       Thiago Henrique Felix
   </author>
-    <engine name="android" spec="^7.1.2" />
-    <engine name="browser" spec="^5.0.4" />
 </widget>
