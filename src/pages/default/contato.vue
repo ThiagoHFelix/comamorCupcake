@@ -1,13 +1,13 @@
 
 <template>
-    <f7-page>
+    <f7-page color-theme="pink">
 
         <f7-navbar title="Contato" back-link="Back"></f7-navbar>
 
         <f7-block>
             <f7-row>
                 <f7-col width="100">
-                    
+
                     <GmapMap
                         :center="{lat:-22.7410774, lng:-47.3529652}"
                         :zoom="15"
@@ -22,12 +22,10 @@
                             @click="center=m.position"
                             />
                     </GmapMap>
-                    
+
                 </f7-col>
             </f7-row>
         </f7-block>
 
     </f7-page>
 </template>
-
-

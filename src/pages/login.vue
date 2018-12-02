@@ -1,5 +1,5 @@
 <template>
-  <f7-page no-toolbar no-swipeback login-screen>
+  <f7-page no-toolbar no-swipeback login-screen color-theme="pink">
     <f7-navbar title="Login" back-link="Back"></f7-navbar>
     <f7-login-screen-title></f7-login-screen-title>
     <f7-list form>
@@ -19,7 +19,7 @@
       ></f7-list-input>
     </f7-list>
     <f7-list>
-      <f7-list-button @click="signIn">Entrar</f7-list-button>
+      <f7-list-button @click="">Entrar</f7-list-button>
       <f7-block-footer>Faça o login para utlizar nosso sistema</f7-block-footer>
     </f7-list>
   </f7-page>
@@ -37,14 +37,7 @@
       };
     },
     methods: {
-      signIn() {
-        const self = this;
-        const app = self.$f7;
-        const router = self.$f7router;
-        app.dialog.alert(`Username: ${self.username}<br>Password: ${self.password}`, () => {
-          router.back();
-        });
-      },
+
     },
   };
 </script>

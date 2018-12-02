@@ -1,5 +1,5 @@
 <template>
-    <f7-page  :style="{ 'background':'url('+bg+')', 'background-size':'cover' }" >
+    <f7-page color-theme="pink" :style="{ 'background':'url('+bg+') center', 'background-size':'cover' }" >
 
         <!--=====================================================================================-->
         <f7-navbar  sliding>
