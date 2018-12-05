@@ -14,8 +14,7 @@ Ao fazer o cadastro no aplicativo, o consumidor poderá navegar nos menus e esco
  </p>
 
  	<h2>Missão</h2>
-<p>Com o intuito de oferecer ao consumidor doces de qualidade, a empresa Com Amor Cupcakes trabalha no ramo de doces com venda online por aplicativo próprio, em que será oferecido a seus clientes diversos sabores de massas, receios e coberturas.
-Ao fazer o cadastro no aplicativo, o consumidor poderá navegar nos menus e escolher cupcakes já prontos que serão oferecidos, como de chocolate, baunilha e outros variados, e fazer encomendas para festas.
+<p>“Fornecer a nossos clientes cupcakes de qualidade, deliciosos e com amor, juntamente com um ótimo atendimento online pelo aplicativo e presencial”.
 </p>
 
 <h2>Visão</h2>
