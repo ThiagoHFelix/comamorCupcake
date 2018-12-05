@@ -9,7 +9,7 @@
     link="#"
     title="Cupcake de Chocolate"
     after=""
-    subtitle="Quantidade: 150 - R$ 1.200,00"
+    subtitle="Quantidade: 150 - R$ 1.275,00"
     text="Pedido em Transporte."
   >
     <img slot="media" src="../../img/cupcakes/c1.jpg" width="80" />
@@ -19,7 +19,7 @@
     link="#"
     title="Cupcake de Baunilha"
     after=""
-    subtitle="Quantidade: 18 - R$ 144,00"
+    subtitle="Quantidade: 18 - R$ 153,00"
     text="Aguardando separação."
   >
     <img slot="media" src="../../img/cupcakes/c2.jpg" width="80" />

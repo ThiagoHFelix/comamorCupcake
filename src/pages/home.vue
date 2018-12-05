@@ -21,11 +21,19 @@
 
         <f7-swiper>
 
+        <f7-swiper-slide>
+                <div class="img-logo">
+                    <img width="320" src="../img/promocao.png"/>
+                </div>
+            </f7-swiper-slide>
+
             <f7-swiper-slide>
                 <div class="img-logo">
                     <img src="../img/logo.png"/>
                 </div>
             </f7-swiper-slide>
+
+            
 
         </f7-swiper>
 

@@ -12,7 +12,7 @@
             link="#"
             title="Cupcake de Chocolate"
             after=""
-            subtitle="R$ 8,00"
+            subtitle="R$ 8,50"
             text=""
           >
             <img slot="media" src="../../img/cupcakes/c1.jpg" width="80" />
@@ -22,7 +22,7 @@
             link="#"
             title="Cupcake de Baunilha"
             after=""
-            subtitle="R$ 8,00"
+            subtitle="R$ 8,50"
             text=""
           >
             <img slot="media" src="../../img/cupcakes/c2.jpg" width="80" />
@@ -32,7 +32,7 @@
             link="#"
             title="Cupcake de Leite Ninho"
             after=""
-            subtitle="R$ 8,00"
+            subtitle="R$ 8,50"
             text=""
           >
             <img slot="media" src="../../img/cupcakes/c3.jpg" width="80" />
@@ -42,7 +42,7 @@
             link="#"
             title="Cupcake de Nutella"
             after=""
-            subtitle="R$ 8,00"
+            subtitle="R$ 8,50"
             text=""
           >
             <img slot="media" src="../../img/cupcakes/c4.jpg" width="80" />
@@ -52,7 +52,7 @@
             link="#"
             title="Cupcake de Limão"
             after=""
-            subtitle="R$ 8,00"
+            subtitle="R$ 8,50"
             text=""
           >
             <img slot="media" src="../../img/cupcakes/c5.jpg" width="80" />
@@ -67,7 +67,7 @@
             link="#"
             title="Cupcake de Brigadeiro"
             after=""
-            subtitle="R$ 8,00"
+            subtitle="R$ 8,50"
             text=""
           >
             <img slot="media" src="../../img/cupcakes/c6.jpg" width="80" />
@@ -77,7 +77,7 @@
             link="#"
             title="Cupcake de Frutas Vermelhas"
             after=""
-            subtitle="R$ 8,00"
+            subtitle="R$ 8,50"
             text=""
           >
             <img slot="media" src="../../img/cupcakes/c7.jpg" width="80" />
